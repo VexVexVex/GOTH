@@ -1,5 +1,5 @@
 # GOTH Stack
 
-GO
-Tailwind
-HTMX
+- GO
+- Tailwind
+- HTMX
