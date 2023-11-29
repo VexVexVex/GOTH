@@ -1,1 +1,5 @@
-# GOTH
+# GOTH Stack
+
+GO
+Tailwind
+HTMX
